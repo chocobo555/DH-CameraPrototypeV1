@@ -2,7 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\DarknessCrawl.cs">
     <Files>
-      <File FileName="Assets\scripts\DarknessCrawl.cs" Line="18" Column="8" />
+      <File FileName="Assets\scripts\DarknessCrawl.cs" Line="43" Column="19" />
+      <File FileName="..\..\..\LaRPG-BattleScene\Assets\Scripts\IanCharacter.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\LaRPG-BattleScene\Assets\Scripts\ATBGaugeManager.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\LaRPG-BattleScene\Assets\Scripts\JakeCharacter.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\LaRPG-BattleScene\Assets\Scripts\Unit.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
